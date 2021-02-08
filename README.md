@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Greg
+
+Welcome to where I cut code 👨🏻‍💻
+
+- [`www.soundbytes.dev`](https://www.souundbytes.dev/)
 
 <!--
 **iamgbsmith/iamgbsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
