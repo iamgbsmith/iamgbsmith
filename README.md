@@ -2,7 +2,7 @@
 
 Welcome to where I cut code 👨🏻‍💻
 
-- [`www.soundbytes.dev`](https://www.souundbytes.dev/)
+- [`www.soundbytes.dev`](https://www.soundbytes.dev/)
 
 <!--
 **iamgbsmith/iamgbsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
