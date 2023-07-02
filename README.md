@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Greg 👨🏻‍💻
 
-<!--
-**iamgbsmith/iamgbsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write on technology at [soundbytes.dev](https://www.soundbytes.dev) and you can also find me on [LinkedIn](https://github.com/iamgbsmith).
 
-Here are some ideas to get you started:
+### 🌱 Currently absorbing more on
+- Computer vision and Large Language Models
+- Cloud platforms (Azure)
+- Optimising use of front-end frameworks (React, Next.js, TypeScript, Node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏃🏻‍♂️ Busy working on
+- Digital transformations
+- Leading engineering teams
+- Architecting systems for resilience and agility
+- Stakeholder management
+
+### 🔭 An ongoing interest in
+- Open source technology
+- Artificial intelligence
+- Experimentation and building things
+
+[my blog]: https://www.soundbytes.dev
+[linkedin]: https://www.linkedin.com/in/gregorybsmith/
